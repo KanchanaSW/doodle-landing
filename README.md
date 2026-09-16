@@ -6,7 +6,9 @@ Not a Tailwind chrome clone. Not a dark SaaS template. Not conceptcraft (that is
 
 ## Live example
 
-[doodle-ui.netlify.app](https://doodle-ui.netlify.app/) — live component docs and sketch previews for the library this skill imports. Each generated landing is title-specific; there is no single canonical demo URL.
+[night-mail.netlify.app](https://night-mail.netlify.app/) — *The Night Mail Train*, a landing page built with this skill.
+
+Component library: [doodle-ui.netlify.app](https://doodle-ui.netlify.app/) — docs and live previews for [`doodleui-react`](https://www.npmjs.com/package/doodleui-react), the sketch chrome this skill imports.
 
 ## Install
 
